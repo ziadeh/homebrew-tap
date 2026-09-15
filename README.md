@@ -11,7 +11,7 @@ and GIF app that lives in the menu bar.
 brew install ziadeh/tap/snapline
 ```
 
-The cask installs the same signed and notarized DMG published on
+The cask installs the same signed and notarized build published on
 [ziadeh/snapline-releases](https://github.com/ziadeh/snapline-releases).
 Snapline updates itself through Sparkle between cask bumps; `brew upgrade`
 replaces the app only when the cask version moves.
